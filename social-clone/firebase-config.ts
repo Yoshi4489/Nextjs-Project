@@ -6,13 +6,13 @@ import { GoogleAuthProvider, FacebookAuthProvider } from "firebase/auth/cordova"
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDS6Nge76R5K7LRfBSHBK8MQmH_nRxQrLM",
-  authDomain: "social-app-81639.firebaseapp.com",
-  projectId: "social-app-81639",
-  storageBucket: "social-app-81639.appspot.com",
-  messagingSenderId: "784117015970",
-  appId: "1:784117015970:web:5f63f66d8768152dd7fefb",
-  measurementId: "G-BWC66Z80YN"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
